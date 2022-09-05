@@ -2,8 +2,8 @@
 #Description: Adobe Block List from RLeve.de, modified by Hai Karate
 #Author: Robin Leve
 #License: MIT License
-#Home: https://rleve.de
-#@ Github : https://github.com/Levero/PiHole-Block-Whitelist
+#Home: https://github.com/Hai-Karate/PiholeBlocklist
+#@ Github : https://github.com/Hai-Karate/PiholeBlocklist
 #Updated: 05 September 2022
 #LatestVersion 1.0
 #---------------------
